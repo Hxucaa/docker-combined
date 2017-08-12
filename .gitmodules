@@ -1,0 +1,20 @@
+[submodule "docker-misc"]
+	path = docker-misc
+	url = git@github.com:Hxucaa/docker-misc.git
+	branch = master
+[submodule "docker-entertainment"]
+	path = docker-entertainment
+	url = git@github.com:Hxucaa/docker-entertainment.git
+	branch = master
+[submodule "docker-reverse-proxy"]
+	path = docker-reverse-proxy
+	url = git@github.com:Hxucaa/docker-reverse-proxy.git
+	branch = master
+[submodule "docker-elk"]
+	path = docker-elk
+	url = git@github.com:Hxucaa/docker-elk.git
+	branch = master
+[submodule "docker-metrics"]
+	path = docker-metrics
+	url = git@github.com:Hxucaa/docker-metrics.git
+	branch = master
